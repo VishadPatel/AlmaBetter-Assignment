@@ -1,4 +1,4 @@
-### Programming Web with Javascript
+# Programming Web with Javascript
 
 
 ## Programming Basics
